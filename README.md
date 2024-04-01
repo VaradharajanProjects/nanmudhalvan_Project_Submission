@@ -1,6 +1,3 @@
-Implemented by , 
+# MusicBeats
 
-
-
-Admin username: admin
-Admin password: admin
+This is a Music Website made with Python Django Framework.
